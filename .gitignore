@@ -1,0 +1,12 @@
+data/
+temp1-ffhq/
+temp2-ffhq/
+temp3/
+examples-ffhq/
+cifar-10-batches-py/
+ryudrigo/examples-ffhq/
+runs/
+lightning_logs/
+*.tar.gz
+*.bak
+__pycache__
